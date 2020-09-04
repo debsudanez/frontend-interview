@@ -1,0 +1,22 @@
+html, body { height: 100%;}
+
+body {
+    display:flex; 
+    flex-direction:column; 
+    color: white;
+    margin: 0;
+}
+
+header {
+    background: black;
+    padding-top: 1px;
+    display: flex;
+    justify-content: center;
+}
+
+footer {
+    height: 100px;
+    background: black;
+    margin-top: auto;
+}
+
